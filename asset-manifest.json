@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/goldfishaccount-website/static/css/main.7bcb4a8d.chunk.css",
+    "main.js": "/goldfishaccount-website/static/js/main.eb80c672.chunk.js",
+    "main.js.map": "/goldfishaccount-website/static/js/main.eb80c672.chunk.js.map",
+    "runtime-main.js": "/goldfishaccount-website/static/js/runtime-main.19456858.js",
+    "runtime-main.js.map": "/goldfishaccount-website/static/js/runtime-main.19456858.js.map",
+    "static/js/2.63b50ecb.chunk.js": "/goldfishaccount-website/static/js/2.63b50ecb.chunk.js",
+    "static/js/2.63b50ecb.chunk.js.map": "/goldfishaccount-website/static/js/2.63b50ecb.chunk.js.map",
+    "index.html": "/goldfishaccount-website/index.html",
+    "precache-manifest.4d74ad8892e48e05e93641afb04ec12e.js": "/goldfishaccount-website/precache-manifest.4d74ad8892e48e05e93641afb04ec12e.js",
+    "service-worker.js": "/goldfishaccount-website/service-worker.js",
+    "static/css/main.7bcb4a8d.chunk.css.map": "/goldfishaccount-website/static/css/main.7bcb4a8d.chunk.css.map",
+    "static/js/2.63b50ecb.chunk.js.LICENSE.txt": "/goldfishaccount-website/static/js/2.63b50ecb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19456858.js",
+    "static/js/2.63b50ecb.chunk.js",
+    "static/css/main.7bcb4a8d.chunk.css",
+    "static/js/main.eb80c672.chunk.js"
+  ]
+}
